@@ -1,0 +1,6 @@
+print("Welcome to the TIP CALCULATOR!!!\n")
+bill=float(input("Enter Total Bill Amount:"))
+tipper=int(input("Enter Percentage of Tip You want to GIVE:"))
+p=int(input("Enter No of Peoples to Split the BIll!:"))
+bill=bill+(bill*(tipper/100))
+print(f" Total Bill with Tip is {bill} & Each one has to Pay about {bill/p}")

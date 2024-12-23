@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BintDec",
+            "request": "launch",
+            "mainClass": "BintDec",
+            "projectName": "VS Code DSA_f220330b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArr",
+            "request": "launch",
+            "mainClass": "ReverseArr",
+            "projectName": "VS Code Programs_bbb9f798"
+        },
+        {
+            "type": "java",
+            "name": "HollowR",
+            "request": "launch",
+            "mainClass": "HollowR",
+            "projectName": "VS Code Programs_bbb9f798"
+        }
+    ]
+}

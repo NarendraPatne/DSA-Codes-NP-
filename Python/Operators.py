@@ -1,0 +1,5 @@
+print("Addition 5+3:",5+3)
+print("Substraction 5-2:",5-2)
+print("Multiplication 5*5:",5*5)
+print("Division 15/5:",15/5)
+print("Exponent 5**2:",5**2)

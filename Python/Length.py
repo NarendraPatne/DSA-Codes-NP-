@@ -1,0 +1,8 @@
+# st=input("Whats your name?")
+# length=len(st)
+# z=str(length)
+# print("LEngth of  your Name is "+z+" characters")
+# print(type(st))
+# print(type(length))
+a=input()
+print(type(a))
